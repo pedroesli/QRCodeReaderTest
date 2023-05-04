@@ -1,2 +1,2 @@
 # QRCodeReaderTest
-Testing the QRCodeReader api and the EFQRCode api
+Testing the [QRCodeReader](https://github.com/yannickl/QRCodeReader.swift) package to read QRCodes using the camera and the [EFQRCode](https://github.com/EFPrefix/EFQRCode) package to generate the QRCode.
